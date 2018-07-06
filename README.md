@@ -1,1 +1,2 @@
 # Pametno_Parkiraliste
+##Maketa „Pametno parkiralište“ prikazuje sustav za navođenje vozača do slobodnog parkirnog mjesta. Senzori postavljeni pod svakim mjestom prepoznaju zauzeto mjesto te na osnovu toga LED rasvjeta prikazuje put do slobodnog parkirnog mjesta. Windows desktop aplikacijom korisniku se omogućuje interakcija s maketom, odnosno korisnik može mijenjati boju LED svjetala i brzinu navođenja. Broj slobodnih mjesta se prikazuje na 7-segmentnom pokazniku.
