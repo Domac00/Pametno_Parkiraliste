@@ -1,0 +1,10 @@
+C:\Users\domin\source\repos\PametnoParkiraliste\PametnoParkiraliste\bin\Debug\PametnoParkiraliste.exe.config
+C:\Users\domin\source\repos\PametnoParkiraliste\PametnoParkiraliste\bin\Debug\PametnoParkiraliste.exe
+C:\Users\domin\source\repos\PametnoParkiraliste\PametnoParkiraliste\bin\Debug\PametnoParkiraliste.pdb
+C:\Users\domin\source\repos\PametnoParkiraliste\PametnoParkiraliste\obj\Debug\PametnoParkiraliste.Form1.resources
+C:\Users\domin\source\repos\PametnoParkiraliste\PametnoParkiraliste\obj\Debug\PametnoParkiraliste.Properties.Resources.resources
+C:\Users\domin\source\repos\PametnoParkiraliste\PametnoParkiraliste\obj\Debug\PametnoParkiraliste.csproj.GenerateResource.Cache
+C:\Users\domin\source\repos\PametnoParkiraliste\PametnoParkiraliste\obj\Debug\PametnoParkiraliste.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\PametnoParkiraliste\PametnoParkiraliste\obj\Debug\PametnoParkiraliste.exe
+C:\Users\domin\source\repos\PametnoParkiraliste\PametnoParkiraliste\obj\Debug\PametnoParkiraliste.pdb
+C:\Users\domin\source\repos\PametnoParkiraliste\PametnoParkiraliste\obj\Debug\PametnoParkiraliste.csprojResolveAssemblyReference.cache
